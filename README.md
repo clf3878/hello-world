@@ -1,2 +1,5 @@
 # hello-world
-hello world first program
+
+Hello,
+
+I am Cooper Farrar, and I am from Connecticut.
